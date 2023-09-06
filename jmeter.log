@@ -1,0 +1,49 @@
+2023-09-06 13:31:22,167 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-09-06 13:31:22,175 INFO o.a.j.JMeter: Loading user properties from: G:\jmeter\bin\user.properties
+2023-09-06 13:31:22,175 INFO o.a.j.JMeter: Loading system properties from: G:\jmeter\bin\system.properties
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: Version 5.5
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: java.version=1.8.0_371
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: os.name=Windows 11
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: os.arch=amd64
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: os.version=10.0
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: file.encoding=Cp1251
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: java.awt.headless=null
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: Max memory     =5368709120
+2023-09-06 13:31:22,180 INFO o.a.j.JMeter: Available Processors =12
+2023-09-06 13:31:22,183 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-09-06 13:31:22,183 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-09-06 13:31:22,183 INFO o.a.j.JMeter: JMeterHome=G:\jmeter
+2023-09-06 13:31:22,183 INFO o.a.j.JMeter: user.dir  =G:\jmeter
+2023-09-06 13:31:22,183 INFO o.a.j.JMeter: PWD       =G:\jmeter
+2023-09-06 13:31:22,184 INFO o.a.j.JMeter: IP: 192.168.0.105 Name: DESKTOP-S2N44TH FullName: host.docker.internal
+2023-09-06 13:31:22,194 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-09-06 13:31:22,282 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-09-06 13:31:23,286 WARN o.j.r.PluginManager: Found JAR conflict: G:\jmeter\lib\ext\jmeter-plugins-cmn-jmeter-0.7.jar and G:\jmeter\lib\jmeter-plugins-cmn-jmeter-0.6.jar
+2023-09-06 13:31:23,287 WARN o.j.r.PluginManager: Found JAR conflict: G:\jmeter\lib\ext\jmeter-plugins-manager-1.9.jar and G:\jmeter\lib\ext\jmeter-plugins-manager-1.6.jar
+2023-09-06 13:31:23,459 INFO o.j.r.JARSourceHTTP: Found cached repo
+2023-09-06 13:31:23,597 INFO o.j.r.PluginManager: Plugins Status: [jpgc-casutg=2.10, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-httpraw=0.1, jpgc-fifo=0.2, jpgc-plugins-manager=1.6, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2023-09-06 13:31:23,597 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2023-09-06 13:31:29,510 INFO o.a.j.s.FileServer: Default base='G:\jmeter'
+2023-09-06 13:31:29,511 INFO o.a.j.g.a.Load: Loading file: G:\jmeter\scripts\project.jmx
+2023-09-06 13:31:29,511 INFO o.a.j.s.FileServer: Set new base='G:\jmeter\scripts'
+2023-09-06 13:31:29,586 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-09-06 13:31:29,591 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-09-06 13:31:29,592 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-09-06 13:31:29,594 INFO o.a.j.s.SaveService: Loading file: G:\jmeter\scripts\project.jmx
+2023-09-06 13:31:29,686 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2023-09-06 13:31:29,687 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2023-09-06 13:31:29,689 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-06 13:31:29,689 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-06 13:31:29,689 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-06 13:31:29,689 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-09-06 13:31:29,689 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-09-06 13:31:29,690 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-09-06 13:31:29,877 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-09-06 13:31:29,877 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-09-06 13:31:30,221 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-09-06 13:31:30,221 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2023-09-06 13:31:30,222 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-09-06 13:31:30,222 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-09-06 13:31:30,377 INFO o.a.j.s.FileServer: Set new base='G:\jmeter\scripts'
